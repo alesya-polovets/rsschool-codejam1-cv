@@ -85,6 +85,14 @@ ul.education {
   padding-left: 50px;
 }
 
+ul.education ul {
+  font-size: 1em;
+}
+
+ul.education ul li {
+  padding: 0;
+}
+
 p {
   text-align: justify;
   padding-right: 15px;
